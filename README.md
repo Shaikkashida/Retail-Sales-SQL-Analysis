@@ -112,8 +112,7 @@ The purpose of this project is to:
 
 ## 🛠️ Tools Used
 - **MySQL / SQL Workbench**  
-- **GitHub** for version control  
-- **VS Code** (optional) for script writing  
+- **GitHub** for version control   
 
 ---
 
@@ -137,6 +136,6 @@ The purpose of this project is to:
 
 ## 👩‍💻 Author
 **Shaik Kashida Jabeen**  
-📧 YourEmail@example.com  
+📧 Kashukash73@gmail.com  
 🎓 Electronics and Communication Engineering  
 💼 Aspiring Data Analyst / Process Assistant  
